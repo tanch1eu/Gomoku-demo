@@ -1,0 +1,4 @@
+C:\Users\dchie\Documents\MIT 2020\Sem5C\Gomoku Demo\GomokuDemo\GomokuDemo\obj\Debug\netcoreapp3.1\GomokuDemo.csprojAssemblyReference.cache
+C:\Users\dchie\Documents\MIT 2020\Sem5C\Gomoku Demo\GomokuDemo\GomokuDemo\obj\Debug\netcoreapp3.1\GomokuDemo.AssemblyInfoInputs.cache
+C:\Users\dchie\Documents\MIT 2020\Sem5C\Gomoku Demo\GomokuDemo\GomokuDemo\obj\Debug\netcoreapp3.1\GomokuDemo.AssemblyInfo.cs
+C:\Users\dchie\Documents\MIT 2020\Sem5C\Gomoku Demo\GomokuDemo\GomokuDemo\obj\Debug\netcoreapp3.1\GomokuDemo.csproj.CoreCompileInputs.cache
